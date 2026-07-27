@@ -308,7 +308,7 @@
 
 ### 简体中文资源
 - [【26.1/1.21.1】DimLoong的NeoForge非官方中文翻译文档](https://neoforge-docs-cn.dimloong.workers.dev/)
-- [【1.21.1】NeoForge 1.21.1 官方文档AI翻译](https://www.328377.xyz/)（[备用地址](https://nolebase-template-snowy.vercel.app/)）
+- [【1.21.1】xiaopiao的NeoForge非官方AI翻译文档](https://nolebase-template-snowy.vercel.app/)
 
 ## Bukkit/Spigot插件
 
